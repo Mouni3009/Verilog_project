@@ -1,5 +1,4 @@
 # Verilog_project
 Pipelined version of a microprocessor
-![WhatsApp Image 2025-06-22 at 15 49 12_7afa0466](https://github.com/user-attachments/assets/b2effec2-d503-48e7-8c7f-259d2c693e54)
-
-![WhatsApp Image 2025-06-22 at 15 49 11_58601d9b](https://github.com/user-attachments/assets/67f249ff-048b-4a89-95be-b688f13fec38)
+![WhatsApp Image 2025-06-22 at 15 55 17_a5a32e15](https://github.com/user-attachments/assets/3ec1b577-6b94-47ea-a672-41ccb24e33d1)
+![WhatsApp Image 2025-06-22 at 15 55 19_ba34d483](https://github.com/user-attachments/assets/850d1d0a-f5dd-4c5a-b68c-09c6e072e9a7)
